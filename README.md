@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Thodole
+- 👀 I’m interested in learning as much as I can about programming, so I can decide to specialize in something.
+- 🌱 I’m currently learning from scratch with CS50.
+- 💞️ I’m looking to collaborate on whatever I can, but right now I think I only have conditions to learn 😅
+- 📫 Anyone can reach me through my email: thodole@gmail.com
