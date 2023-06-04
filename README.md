@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thodole
+- 👋 Hi, I’m @thodole
 - 👀 I’m interested in learning as much as I can about programming, then I'll decide to specialize in something.
 - 🌱 I’m currently learning from scratch with Deschamps and from Technical School of Brasília - ETB (in Portuguese).
 - 💞️ I’m glad to collaborate whenever I can, even though, right now, I'm just neophite 😅
