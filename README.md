@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thodole
 - 👀 I’m interested in learning as much as I can about programming, then I'll decide to specialize in something.
-- 🌱 I’m currently learning from scratch with CS50 and from Technical School of Brasília - ETB (in Portuguese).
-- 💞️ I’m glad collaborate with whoever I can, even though, right now, I think I'm only neophite 😅
+- 🌱 I’m currently learning from scratch with Deschamps and from Technical School of Brasília - ETB (in Portuguese).
+- 💞️ I’m glad to collaborate whenever I can, even though, right now, I'm just neophite 😅
 - 📫 Anyone can reach me through my email: thodole@gmail.com
